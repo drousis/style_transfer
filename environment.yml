@@ -1,0 +1,9 @@
+name: neural_style
+dependencies:
+  - matplotlib
+  - pip
+  - python=3.6.*
+  - pillow
+  - pytorch=0.4.1
+  - torchvision
+  - jupyter
